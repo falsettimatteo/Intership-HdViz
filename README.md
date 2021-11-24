@@ -1,11 +1,11 @@
-# Intership-HdViz
-BackEnd developed with a group intership with Zucchetti S.p.a.
+# Server
 
-The project is a web app for the easy visualization of multidimensional data. In this repository you can find the server-side.
+## Available Scripts
 
-The BackEnd is developed with Javascript in Node.Js
-the basic functionalities are:
-the selection of the type of database. The possibilities are for: MySql, PostgreSQL, MongoDB and SQLite.
-the selection of the data from the database.
+In the project directory, you can run:
 
-you can find the whole project (server-side and client-side) at the following link: https://github.com/CodeOfDutyJS/hdviz
+### `yarn dev`
+
+Per utilizzare `nodemon` e visualizzare i cambiamenti ogni volta che un file viene modificato.
+
+### `yarn start`
