@@ -1,11 +1,12 @@
-# Server
+# Internship with Zucchetti S.p.a
 
-## Available Scripts
+This repository is an extraction of the server-side code developed in a group internship at the University of Padua.
+You can find the whole project at the following link: https://github.com/CodeOfDutyJS/hdviz
 
-In the project directory, you can run:
+-----------------------------------------------------------------------------------------------------------------------
 
-### `yarn dev`
+The BackEnd is develeped with Javascript in NodeJS.
 
-Per utilizzare `nodemon` e visualizzare i cambiamenti ogni volta che un file viene modificato.
-
-### `yarn start`
+The basic functionalities are: 
+The selecton of one of the 4 database type: MySql, PostgreSQL, MongoDB, SQLite.
+The selection of data from the database. The selection is 'translated' in SQL or NoSQL queries based on the type of database
